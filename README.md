@@ -4,6 +4,7 @@
 
 ***Wireless fixed IP***
 
+***RASPBERRY ARM:***
 
 ```
 netstat -nr
