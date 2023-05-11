@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  Fixed IP to Rasp 
+  Fixed IP  
 </h1>
 
 ***Wireless fixed IP***
