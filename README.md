@@ -1,0 +1,2 @@
+# RaspiConfig
+Wireless fixed IP
